@@ -8,6 +8,6 @@ This project is dedicated to learning web designer programming.
 
 ## Meta
 
-Marcos Glasner - [https://github.com/Curio5813/ProjectEuler](https://github.com/Curio5813)
+Marcos Glasner - [https://github.com/Curio5813/WebDesinger](https://github.com/Curio5813)
 
 marcosglasner@gmail.com
