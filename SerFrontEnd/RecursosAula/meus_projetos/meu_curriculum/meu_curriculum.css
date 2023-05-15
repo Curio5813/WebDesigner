@@ -4,7 +4,7 @@ body {
     margin: auto;
     color: #444;
     text-align: justify;
-    background-color: #ccc;
+    background-color: #fff;
     margin-bottom: 56px;
 }
 
@@ -36,11 +36,6 @@ li {
 
 .center {
     text-align: center;
-}
-
-.subtitle {
-    margin-top: 0;
-    background-color: #c6c8e8;
 }
 
 a {
