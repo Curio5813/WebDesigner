@@ -52,7 +52,7 @@ a:hover {
 }
 
 .menu{
-text-align: right;
+    text-align: right;
 }
 
 .menu li{
@@ -63,7 +63,7 @@ text-align: right;
 .menu a {
     background-color: #c1bebe;
     padding: 16px;
-    display: inline-block;
+    display: block;
 }
 
 .menu a:hover{
